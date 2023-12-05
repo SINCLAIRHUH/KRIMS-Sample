@@ -36,7 +36,7 @@ export default function DefaultAuthLayout(props: DefaultAuthLayoutProps) {
         direction="column"
       >
         <NavLink
-          href="/admin/dashboards/default"
+          href="/junmaster/dashboards/default"
           styles={{
             width: 'fit-content',
             marginTop: '40px',

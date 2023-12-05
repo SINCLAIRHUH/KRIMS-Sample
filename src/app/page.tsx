@@ -1,4 +1,4 @@
 import { redirect } from 'next/navigation';
 export default function Home({}) {
-  redirect('/admin/dashboards/default');
+  redirect('/junmaster/dashboards/default');
 }
